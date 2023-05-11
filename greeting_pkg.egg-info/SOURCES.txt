@@ -1,0 +1,7 @@
+setup.py
+greeting_pkg/__init__.py
+greeting_pkg/greeting_module.py
+greeting_pkg.egg-info/PKG-INFO
+greeting_pkg.egg-info/SOURCES.txt
+greeting_pkg.egg-info/dependency_links.txt
+greeting_pkg.egg-info/top_level.txt
